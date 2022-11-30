@@ -1,0 +1,8 @@
+2022-11-29 17:15:54,431 - Dalalstreet Auto framework -INFO - framework execution started
+ 2022-11-29 17:18:42,951 - Dalalstreet Auto framework -INFO - url launches,maximize,and provided waits
+ 2022-11-29 17:18:45,277 - Dalalstreet Auto framework -INFO - object creations
+ 2022-11-29 17:19:18,184 - Dalalstreet Auto framework -INFO - login successful
+ 2022-11-29 17:19:18,727 - Dalalstreet Auto framework -INFO - Test case execution startedverifyLoginTest
+ 2022-11-29 17:19:19,015 - Dalalstreet Auto framework -INFO - Test case execution completedverifyLoginTest
+ 2022-11-29 17:19:19,053 - Dalalstreet Auto framework -INFO - framework execution completed
+ 
