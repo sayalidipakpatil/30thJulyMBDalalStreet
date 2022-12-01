@@ -42,7 +42,7 @@ public class TestBase {
 	@BeforeMethod
 	public void setup(String br) throws InterruptedException    //string br="chrome"
 	{
-		if(br.equalsIgnoreCase("chrome"))
+		if(br.equalsIgnoreCase("CHROME"))
 		{
 			WebDriverManager.chromedriver().setup();
 		    driver=new ChromeDriver();
